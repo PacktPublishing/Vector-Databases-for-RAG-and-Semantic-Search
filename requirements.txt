@@ -210,7 +210,7 @@ openai==2.30.0
     # via
     #   langchain-openai
     #   vector-databases-course
-opentelemetry-api==1.40.0
+opentelemetry-api==1.45.2
     # via
     #   chromadb
     #   opentelemetry-exporter-otlp-proto-grpc
