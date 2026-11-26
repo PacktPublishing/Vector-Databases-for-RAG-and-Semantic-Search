@@ -31,7 +31,7 @@ bcrypt==5.0.0
     # via chromadb
 build==1.4.2
     # via chromadb
-certifi==2026.2.25
+certifi==2026.10.18
     # via
     #   httpcore
     #   httpx
